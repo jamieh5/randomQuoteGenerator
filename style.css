@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+  }
+
+body {
+    background-color: lightyellow;
+  }
+
+  .main-heading {
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: -10px;
+    top: 10px;
+    margin-bottom: 25px;
+  }
+
+.container {
+    margin: auto;
+    width: 65%;
+    height: 400px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5%;
+    border: 2px #289df6 solid;
+}
+
+.quote {
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.source {
+    text-align: center;
+}
+
+.quote-btn {
+        width: 200px;
+        height: 65px;
+        background-color: #289df6;
+        color: white;
+        border-radius: 5%;
+        border: 0;
+        margin: auto;
+        display: block;
+}
